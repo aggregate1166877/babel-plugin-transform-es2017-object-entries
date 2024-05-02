@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/christensson/babel-plugin-transform-es2017-object-entries#readme",
   "dependencies": {
-    "babel-core": "^6.20.0"
+    "@babel/cli": "^7.24.5",
+    "@babel/core": "^7.24.5"
   },
   "devDependencies": {
-    "babel-cli": "^6.18.0",
     "chai": "^3.5.0",
-    "mocha": "^3.2.0"
+    "mocha": "^10.4.0"
   }
 }
